@@ -7,7 +7,7 @@
 </div>
 
 ## Tenho conhecimento
-<div style="display: inline-block"><br>
+<div style="display: inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java-Icon">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript-Icon">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart-Icon">
@@ -15,8 +15,8 @@
 </div>
 
 ## Estou aprendendo
-<div style="display: inline-block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)" alt="TypeScript-Icon">
+<div style="display: inline-block">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript-Icon">
 </div>
 
 
