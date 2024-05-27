@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Rigolao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rigolao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rigolao&layout-compact&langs_count=16&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rigolao&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Rigolao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Tenho conhecimento
@@ -31,8 +31,5 @@
     </a>
     <a href="https://www.linkedin.com/in/matheus-rigolao/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-Icon">
-    </a>
-    <a href="https://twitter.com/Rigolao_" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Linkedin-Icon">
     </a>
 </div>
